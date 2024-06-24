@@ -93,6 +93,11 @@ In [5470A_BIOS-to-write.bin, starting at 0x1000 offset select a block of 0x17D00
 
 At last, save the file.
 
+## Writing the EEPROM
+The last step is to write and verify the data on the EEPROM.
+
+Follow the EEPROM Programmer user guide.
+
 ## References
 [NEW DELL 16MB .HDR TO BIN EXTRACTION...|https://www.youtube.com/watch?v=vEr8dYtT0SQ]
 
